@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>天天酷跑</string>
+		<key>icon</key>
+		<string>000</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>爸爸去哪儿</string>
+		<key>icon</key>
+		<string>001</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>神庙逃亡</string>
+		<key>icon</key>
+		<string>002</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>不等你了</string>
+		<key>icon</key>
+		<string>003</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>不在这</string>
+		<key>icon</key>
+		<string>004</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>找你妹</string>
+		<key>icon</key>
+		<string>005</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>你是谁er </string>
+		<key>icon</key>
+		<string>006</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>开心消消乐</string>
+		<key>icon</key>
+		<string>007</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>斗地主</string>
+		<key>icon</key>
+		<string>008</string>
+	</dict>
+</array>
+</plist>
